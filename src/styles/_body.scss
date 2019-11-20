@@ -1,0 +1,63 @@
+.time {
+  text-align: center;
+  font-size: 36px;
+  padding-bottom: 25px;
+  padding-top: 25px;
+}
+
+.board {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  grid-gap: 3px;
+
+  div {
+    background-color: white;
+    width: auto;
+    height: 20vh;
+    border: 2px solid white;
+  }
+
+  .blue {
+    background-color: blue;
+  }
+
+  .orange {
+    background-color: orange;
+  }
+
+  .purple {
+    background-color: purple;
+  }
+
+  .red {
+    background-color: red;
+  }
+
+  .yellow {
+    background-color: yellow;
+  }
+
+  .green {
+    background-color: green;
+  }
+
+  .pink {
+    background-color: pink;
+  }
+
+  .brown {
+    background-color: brown;
+  }
+
+  .cyan {
+    background-color: cyan;
+  }
+
+  .hidden {
+    background-color: #000;
+  }
+
+  .off {
+    background-color: #eee;
+  }
+}

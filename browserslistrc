@@ -1,0 +1,8 @@
+[production staging]
+last 10 versions
+Firefox ESR
+
+[development]
+last 5 chrome version
+last 5 firefox version
+last 5 edge version

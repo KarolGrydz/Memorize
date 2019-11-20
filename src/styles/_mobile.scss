@@ -1,0 +1,27 @@
+@media (max-width: 768px) {
+  .board {
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  div {
+    height: 12vh;
+  }
+
+  header {
+    padding-top: 5px;
+    padding-bottom: 7.5px;
+    font-size: 40px;
+  }
+
+  .time {
+    padding-top: 10px;
+    font-size: 18px;
+    padding-bottom: 10px;
+  }
+
+  footer {
+    padding-top: 5px;
+    font-size: 6px;
+    padding-bottom: 5px;
+  }
+}
