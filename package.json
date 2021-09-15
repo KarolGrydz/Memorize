@@ -38,7 +38,7 @@
   "dependencies": {
     "@babel/polyfill": "^7.7.0",
     "core-js": "^3.4.0",
-    "set-value": "^3.0.1"
+    "set-value": "^4.0.1"
   },
   "author": "Karol Grydz",
   "license": "MIT"
